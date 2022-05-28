@@ -10,6 +10,8 @@ html, body{
 		height: 100%;
 }
 .header {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
   display: flex;
   height: 70px;
   justify-content: center;
